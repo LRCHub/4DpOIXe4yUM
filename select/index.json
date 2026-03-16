@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "DOLLS",
+  "base_artist": "Janne Da Arc",
+  "createdAt": "2026-03-16T15:56:37.167118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Dolls' Tea Party",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/01_The_Dolls'_Tea_Party_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Valley of the Dolls",
+      "artist": "Mylo",
+      "has_synced": false,
+      "path": "select/02_Valley_of_the_Dolls_Mylo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dolls",
+      "artist": "Primal Scream",
+      "has_synced": true,
+      "path": "select/03_Dolls_Primal_Scream.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dolls (Some Spiders White Light Returned With Thanks Demo Mix)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/04_Dolls_(Some_Spiders_White_Light_Returned_With_Thanks_Demo_Mix)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dolls (Sweet Rock and Roll)",
+      "artist": "Primal Scream",
+      "has_synced": false,
+      "path": "select/05_Dolls_(Sweet_Rock_and_Roll)_Primal_Scream.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dolls in the Dark",
+      "artist": "Drab Majesty",
+      "has_synced": true,
+      "path": "select/06_Dolls_in_the_Dark_Drab_Majesty.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Guys and Dolls",
+      "artist": "Sabrina Salerno",
+      "has_synced": false,
+      "path": "select/07_Guys_and_Dolls_Sabrina_Salerno.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What Becomes of Us? - Nesting Dolls Edit",
+      "artist": "Cinephile",
+      "has_synced": false,
+      "path": "select/08_What_Becomes_of_Us__-_Nesting_Dolls_Edit_Cinephile.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "House Of Dolls",
+      "artist": "Chromatics",
+      "has_synced": false,
+      "path": "select/09_House_Of_Dolls_Chromatics.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Valley of the Dolls",
+      "artist": "Santigold",
+      "has_synced": true,
+      "path": "select/10_Valley_of_the_Dolls_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Katrina's Paper Dolls",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/11_Katrina's_Paper_Dolls_Prince.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Katrina’s Paper Dolls",
+      "artist": "Prince",
+      "has_synced": false,
+      "path": "select/12_Katrina’s_Paper_Dolls_Prince.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Wall Of Dolls",
+      "artist": "Golden Earring",
+      "has_synced": false,
+      "path": "select/13_The_Wall_Of_Dolls_Golden_Earring.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Boys, Rag Dolls",
+      "artist": "Krokus",
+      "has_synced": true,
+      "path": "select/14_Bad_Boys,_Rag_Dolls_Krokus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Little Dolls",
+      "artist": "Ozzy Osbourne",
+      "has_synced": false,
+      "path": "select/15_Little_Dolls_Ozzy_Osbourne.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DOLLS",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/pl_01_DOLLS_Janne_Da_Arc.txt"
+    }
+  ]
+}
